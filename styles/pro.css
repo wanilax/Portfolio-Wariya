@@ -5,16 +5,13 @@ header{
     padding: 0;
     margin: auto;
     display:block;
-    gap: 2rem;
     color: rgb(2, 2, 2);
     font-family: 'Prompt', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Sarabun', sans-serif;
 }
 .note{
-    padding: 3rem;
     line-height: 2.5rem;
-
 }
 
 
